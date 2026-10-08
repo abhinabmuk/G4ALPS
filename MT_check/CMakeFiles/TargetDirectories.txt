@@ -1,0 +1,7 @@
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/TestEm18.dir
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/edit_cache.dir
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/rebuild_cache.dir
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/list_install_components.dir
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/install.dir
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/install/local.dir
+/home/badshah/Downloads/G4ALPS/G4ALPS/EMmCP/MT_check/CMakeFiles/install/strip.dir
